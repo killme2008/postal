@@ -1,4 +1,4 @@
-(defproject cn.leancloud/postal "1.12-RC1"
+(defproject com.avos/postal "1.12-RC1"
   :description "JavaMail on Clojure"
   :url "https://github.com/drewr/postal"
   :license {:name "MIT"
